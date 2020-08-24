@@ -1,2 +1,13 @@
-# repo01
-This is my first repository (este é o meu primeiro repositório)
+# repository test 
+This is my first repository
+
+# repotório teste
+Este é o meu primeiro repositório)
+
+# Jean Gomes
+
+## Formação acadêmica
++ TADS Uninove (2020 - 2022)
++ ETEC Informática (2017 - 2018)
+
+### Experiência
